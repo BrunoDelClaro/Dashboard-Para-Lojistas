@@ -6,9 +6,12 @@
 * Pedro Delavechia Risso
 
 ## 1. Visão 
-_Forneça uma declaração que resuma o problema que sendo resolvido pelo sistema. O seguinte formato pode ser usado._
 
-O problema de <descrição do problema> afeta os <interessados afetados pelo problema> cujo impacto é <qual o impacto do problema?>. Neste contexto, uma solução de sucesso resultaria em <benefícios chaves trazidos por essa solução>.
+A dificuldade de visualizar os dados de uma loja de uma maneira simples e bem apresentada afeta muitos lojistas prejudicando o acompanhamento e análise do desempenho de seu comércio. Dessa forma, uma solução bem aplicada resultaria em:
+
+* Maior agilidade na análise dos dados;
+* Uma visualização intuitiva e fácil de usar;
+* Geração de relatórios completos ou parciais;
 
 ## 2. Envolvidos
 _Forneça uma descrição dos papéis ou persona envolvidos ou interessados no projeto._
