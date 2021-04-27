@@ -18,7 +18,7 @@ _Forneça uma descrição dos papéis ou persona envolvidos ou interessados no p
 
 | Nome                      | Descrição     |
 | :------------------------:|:-------------:|
-| Dono             | Usuario princiapal, com acesso as todas opçoes de usuario|
+| Dono             | Usuario principal, com acesso as todas opçoes de usuario|
 | Usuario autorizado (Gerente) | Usuario que recebera permissões de acordo com suas necessidades|
 
 
