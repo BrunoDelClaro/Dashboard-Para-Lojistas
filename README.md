@@ -14,8 +14,11 @@ O problema de <descrição do problema> afeta os <interessados afetados pelo pro
 _Forneça uma descrição dos papéis ou persona envolvidos ou interessados no projeto._
 
 | Nome                      | Descrição     |
-| -------------             |:-------------:|
-| Nome do papel ou persona  | Descrição do papel ou persona |
+| :------------------------:|:-------------:|
+| Dono             | Usuario princiapal, com acesso as todas opçoes de usuario|
+| Usuario autorizado (Gerente) | Usuario que recebera permissões de acordo com suas necessidades|
+
+
 
 ## 3. Product Backlog
 _O product backlog é basicamente uma lista priorizada de requisitos, estórias, features ou restrições. Coisas que o cliente ou usuário deseja descritas utilizando a terminologia do ambiente de negócios cliente ou usuário. Ele deverá conter no mínimo dez (20) estórias  de valor priorizadas pela sua importância._ 
