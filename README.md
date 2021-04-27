@@ -39,8 +39,7 @@ _O product backlog é basicamente uma lista priorizada de requisitos, estórias,
 | 15   | Comparar meses                 |  7  | Como dono ou usuário autorizado eu devo ser capaz de comparar as vendas, lucros e perdas de meses anteriores. | 1.Na tela principal citada na estória 1, existir uma opção de incluir um mês desejado a fins comparativos. || 
 | 16   | Simulações de lucro           |  4   | Como dono ou usuário autorizado devo ser capaz de fazer simulações da lucratividade a partir de valores especulados. | 1.Ter uma opção que permita o usuário inserir valores dos produtos com preço de custo, valores dos impostos, estimativa de preço e frete. Calculando assim, o lucro esperado. || 
 | 17   | Apresentação para novos usuários |  2  | Como futuro usuário, gostaria de ter uma boa apresentação do software, para que assim, busque utilizar o produto | 1.Ter uma aba de novos usuários, para apresentar o software para novos usuários ||
-| 18   | Assistência |   5   | Como dono ou usuário autorizado, devo ter acesso a uma aba de ajuda com perguntas frequentes e atendimento online. | 1.Um banco de dados para armazenar perguntas e respostas frequentes.
-2.Opção para enviar e-mails para a assistência técnica e/ou chat online. || 
-| 19  | Alterar opções de linguagem |  1  | Como um usuário internacional gostaria de ter uma acessibilidade no programa | Opção de linguagens, no canto superior direito  ||
+| 18   | Assistência |   5   | Como dono ou usuário autorizado, devo ter acesso a uma aba de ajuda com perguntas frequentes e atendimento online. | 1. Um banco de dados para armazenar perguntas e respostas frequentes. 2. Opção para enviar e-mails para a assistência técnica e/ou chat online. || 
+| 19  | Alterar opções de linguagem |  1  | Como um usuário internacional gostaria de ter uma acessibilidade no programa | 1. Opção de linguagens, no canto superior direito  ||
 | 20  | Enviar Feedback |  2  | Como desenvolvedor, gostaria de receber feedback dos usuários |  1.Opção de estrelas com comentários. ||
 
